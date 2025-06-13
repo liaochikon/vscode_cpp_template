@@ -37,6 +37,10 @@ Install added packages to current project :
 vcpkg install
 ```
 
+Change the vcpkg toolchain file path to yours in **CMakeLists.txt**.
+
+<img src="images\cmake.png">
+
 Select compiler : 
 
 <img src="images\cmake_kit.png">
